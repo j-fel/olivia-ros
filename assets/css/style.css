@@ -1,0 +1,27 @@
+
+BODY{
+  font-family: 'raleway',sans-serif;
+}
+header{
+  padding-bottom: 10rem;
+}
+
+
+
+
+.hero{
+  background-image: url(../img/bg-hero.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position:left;
+
+}
+.carousel-indicators {
+  top:  50px;
+}
+
+.carousel-indicators li{
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+}
